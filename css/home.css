@@ -1,0 +1,78 @@
+.icon-box{
+    height: 50px;
+    width: 50px;
+    background-color:rgb(238, 236, 236);
+    border-radius: 50%;
+    padding: 15px;
+   
+    
+}
+.icon-boxactive{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 15px;
+   
+}
+
+
+nav{
+    margin: 20px;
+}
+ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li{
+    padding: 20px;
+    margin-top: 24px;
+}
+
+li a {
+    display: none;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+    box-shadow: 0;
+  }
+  
+  li i:hover {
+     
+    background-color: blue;
+    color: white;
+    width: 60px;
+    height: 30px;
+   border-radius: 10px;
+   margin-inline: -20px;
+  }
+
+  img{
+      width: 350px;
+      height: 560px;
+      margin-top: 50px;
+      margin-left: 50px;
+      margin-bottom: 50px;
+  }
+
+  #message{
+    
+    margin-left: 350px;
+  
+    margin-right: 180px;
+    padding: 150px;
+  }
+
+  header{
+      float: right;
+     margin-top: -380px;
+  }
+
+  #btn{
+      color: white;
+      border-radius: 40px;
+      width: 190px;
+  }
